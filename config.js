@@ -1,6 +1,6 @@
 global.owner = ['62895385284624'] // Put your number here
-global.mods = ['62895385284624'] // Want some help?
-global.prems = ['62895385284624'] // Premium user has unlimited limit
+global.mods = [] // Want some help?
+global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
